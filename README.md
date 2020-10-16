@@ -1,2 +1,2 @@
-# temp2
+# TEMp
 this ia a sample template of restaurant
